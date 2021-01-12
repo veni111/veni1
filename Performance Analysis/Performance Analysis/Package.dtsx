@@ -11,8 +11,8 @@
   DTS:LocaleID="2057"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
-  DTS:VersionGUID="{A9543652-6BBB-4F45-AC54-1F4495C9E985}">
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{5E224577-07A4-4F06-8534-F2E39ED10C36}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -376,6 +376,19 @@
         </pipeline>
       </DTS:ObjectData>
     </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Message Queue Task"
+      DTS:CreationName="Microsoft.MessageQueueTask"
+      DTS:Description="Message Queue Task"
+      DTS:DTSID="{3DC35B4F-68BA-4080-8D14-5DE3F938304E}"
+      DTS:ExecutableType="Microsoft.MessageQueueTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Message Queue Task"
+      DTS:TaskContact="Message Queue Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData />
+    </DTS:Executable>
   </DTS:Executables>
   <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
 <!--This CDATA section contains the layout information of the package. The section includes information such as (x,y) coordinates, width, and height.-->
@@ -393,6 +406,10 @@
           Size="153.333333333334,42.6666666666667"
           Id="Package\Data Flow Task"
           TopLeft="141.249997895211,84.1578963209057" />
+        <NodeLayout
+          Size="184,42.6666666666667"
+          Id="Package\Message Queue Task"
+          TopLeft="207.499996908009,147.105265926786" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
