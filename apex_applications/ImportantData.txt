@@ -1,0 +1,38 @@
+Production server credentials:
+IKB/admnnd
+123Dominaccount
+
+admnnd
+123Domainaccount
+
+v-apexuatweb1 (pre-production). You should be able to connect from the server name if not try the IP 134.83.120.234.
+ 
+v-apexweb1 (production). You should be able to connect from the server name if not try the IP 134.83.120.235
+
+Brunel Credentials:
+
+acxxnnd001
+KrfLwEHyfb7mzr
+
+Workspace credentials:
+
+https://ceplracscan.brunel.ac.uk:8443/ords/
+
+BRUNEL_APPS
+username: ndiviti
+password: Kuruba
+
+Sateon application Credentials:
+
+acxxnnd001
+Veni123!
+
+f?p=280:1:&SESSION.
+
+<button type="button" class="a-Button--nolabel a-Button--iconTextButton js-actionButton" data-action="single-row-view">
+<span class="fa fa-pencil-square-o"></span>
+</button>
+<p style="background-color: #FFFF00">This whole paragraph of text is highlighted in yellow.</p>
+
+
+
